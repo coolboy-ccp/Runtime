@@ -35,6 +35,6 @@ Class _Nonnull isa;
 * 实例的isa指向了一个全局的Class, Class中记录了类名、成员变量信息、property信息、protocol信息和实例方法列表等
 * Class的isa指向一个全局的meta-class，meta-class中记录类名，类方法列表等
 ### 继承
-[avatar](/类继承.pdf)
+![avatar](/类继承.pdf)
 ## 消息转发
 ## 应用
