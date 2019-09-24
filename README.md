@@ -36,7 +36,7 @@ Class _Nonnull isa;
 * Class的isa指向一个全局的meta-class，meta-class中记录类名，类方法列表等
 ### 继承
 * 关系图 ![avatar](/类继承.jpg)
-* [测试代码](/Inherit)
+* [测试代码](/Inherit.m)
 
 ## 消息转发
 ## 应用
